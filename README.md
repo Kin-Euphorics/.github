@@ -3,8 +3,8 @@
 **Functional, non-alcoholic beverages** layered with adaptogens, nootropics, and botanics — built to help you feel euphoric, from dusk till dawn.  
 Explore the full lineup: https://www.kineuphorics.com/
 
-<p align="center">
-  <a href="https://www.kineuphorics.com/"><img src="assets/hero.jpg" alt="Kin Euphorics" width="900" /></a>
+<p align="left">
+  <a href="https://www.kineuphorics.com/"><img src="assets/hero.png" alt="Kin Euphorics" width="900" /></a>
 </p>
 
 ---
@@ -74,7 +74,3 @@ https://www.kineuphorics.com/blogs/recipes
 
 - Instagram: https://www.instagram.com/kineuphorics
 - X (Twitter): https://twitter.com/kineuphorics
-
-Place images in an `assets/` folder at the repo root.
-
-**Recommended structure**
